@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Support — Cheza Games</title>
+  <style>
+    :root {
+      --bg: #0f0e17;
+      --surface: #1a1a2e;
+      --accent: #FFD600;
+      --text: #fffffe;
+      --dim: #a7a9be;
+      --border: rgba(255,255,255,0.08);
+      --green: #06d6a0;
+      --red: #ef5350;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      line-height: 1.7;
+    }
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    header .logo { font-size: 28px; }
+    header h1 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+    header p { font-size: 12px; color: var(--dim); }
+    main {
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 24px 60px;
+    }
+    .page-title {
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 6px;
+    }
+    .subtitle {
+      font-size: 15px;
+      color: var(--dim);
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 18px;
+      color: var(--accent);
+      margin: 36px 0 16px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--border);
+    }
+    p { color: var(--dim); margin-bottom: 14px; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Contact cards */
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin: 20px 0;
+    }
+    .contact-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px;
+      text-align: center;
+      transition: border-color 0.2s;
+    }
+    .contact-card:hover { border-color: var(--accent); }
+    .contact-card .icon { font-size: 32px; margin-bottom: 10px; }
+    .contact-card h3 {
+      font-size: 14px;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .contact-card p {
+      font-size: 13px;
+      color: var(--dim);
+      margin: 0;
+    }
+    .contact-card a {
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    /* FAQ */
+    .faq-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-bottom: 12px;
+      overflow: hidden;
+    }
+    .faq-q {
+      padding: 16px 20px;
+      font-weight: 600;
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      user-select: none;
+    }
+    .faq-q:hover { color: var(--accent); }
+    .faq-q .arrow {
+      font-size: 12px;
+      color: var(--dim);
+      transition: transform 0.2s;
+    }
+    .faq-a {
+      padding: 0 20px 16px;
+      color: var(--dim);
+      font-size: 14px;
+      display: none;
+    }
+    .faq-item.open .faq-a { display: block; }
+    .faq-item.open .arrow { transform: rotate(180deg); }
+
+    /* Games grid */
+    .games-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin: 16px 0;
+    }
+    .game-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+    }
+    .game-card .game-name {
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .game-card p {
+      font-size: 13px;
+      margin: 0;
+    }
+
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: var(--dim);
+      font-size: 12px;
+      border-top: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+<header>
+  <span class="logo">🎮</span>
+  <div>
+    <h1>Cheza Games</h1>
+    <p>by Infoholiks</p>
+  </div>
+</header>
+
+<main>
+  <div class="page-title">Support</div>
+  <div class="subtitle">We're here to help. Find answers below or reach out to us directly.</div>
+
+  <!-- Contact -->
+  <h2>Contact Us</h2>
+  <div class="contact-grid">
+    <div class="contact-card">
+      <div class="icon">✉️</div>
+      <h3>Email Support</h3>
+      <p>For bugs, account issues, or general enquiries.</p>
+      <a href="mailto:hello@infoholiks.com">hello@infoholiks.com</a>
+    </div>
+    <div class="contact-card">
+      <div class="icon">🐦</div>
+      <h3>Twitter / X</h3>
+      <p>Quick questions and updates.</p>
+      <a href="https://twitter.com/infoholiks" target="_blank">@infoholiks</a>
+    </div>
+    <div class="contact-card">
+      <div class="icon">🌐</div>
+      <h3>Website</h3>
+      <p>Company info and other products.</p>
+      <a href="https://infoholiks.com" target="_blank">infoholiks.com</a>
+    </div>
+  </div>
+
+  <!-- Games guide -->
+  <h2>Games Guide</h2>
+  <div class="games-grid">
+    <div class="game-card">
+      <div class="game-name">🃏 Matatu</div>
+      <p>Ugandan card game. Match suit or rank. Special cards: 2 (pick up), 8 (skip), Jack (reverse), Ace (change suit), 7 (chop — only matching cut card suit).</p>
+    </div>
+    <div class="game-card">
+      <div class="game-name">♟️ Chess</div>
+      <p>Classic chess with three AI difficulties: Easy (random), Stockfish (strong), Minimax (very strong). Online multiplayer supported.</p>
+    </div>
+    <div class="game-card">
+      <div class="game-name">🔴 Checkers</div>
+      <p>8×8 draughts. Diagonal moves, mandatory captures, multi-jumps, king promotion. Online multiplayer supported.</p>
+    </div>
+    <div class="game-card">
+      <div class="game-name">🎲 Ludo</div>
+      <p>2–4 players. Roll 6 to enter. Land on opponent to send them home. First to get all 4 tokens to center wins.</p>
+    </div>
+  </div>
+
+  <!-- FAQ -->
+  <h2>Frequently Asked Questions</h2>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      How do I play online? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Tap "Play Online" from the home screen, choose which game to challenge with, then tap any available player to send them a challenge. They'll receive a notification and can accept or decline. If they accept, the game starts automatically.
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      Why can't I see any online players? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Players only appear when they are actively on the Play Online screen. Make sure you and your friends both open the app and navigate to Play Online at the same time. Players who close the app are automatically marked offline.
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      How does the Party Timer work? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Tap the hourglass icon on the home screen. Choose a preset time (30s to 15min), then press Start. When time runs out your phone vibrates. Rotate your phone to instantly reset the timer — great for passing between players at a party!
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      What is the 7 rule in Matatu? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      At the start of a Matatu game, a random card is placed face-up as the "cut card". Only the 7 that matches the cut card's suit can "chop" (force the next player to pick up cards). The other three 7s are played as normal cards.
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      How do I delete my account? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Go to Profile → Settings → Delete Account. This will permanently remove all your game history, stats, and profile data within 30 days. This action cannot be undone.
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      The app is crashing — what should I do? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Try these steps: 1) Force close and reopen the app. 2) Check your internet connection. 3) Update the app to the latest version from the App Store or Play Store. 4) If the problem persists, email us at hello@infoholiks.com with your device model and OS version.
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      Is Cheza Games free? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Yes! Cheza Games is completely free to download and play, including all online features. There are no in-app purchases or subscriptions.
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-q" onclick="toggle(this)">
+      Which countries is Cheza Games available in? <span class="arrow">▼</span>
+    </div>
+    <div class="faq-a">
+      Cheza Games is available worldwide on Android and iOS. While the games are rooted in Ugandan culture, anyone anywhere can download and enjoy them.
+    </div>
+  </div>
+</main>
+
+<footer>
+  &copy; 2026 Cheza Games by Infoholiks. All rights reserved.
+  &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a>
+  &nbsp;·&nbsp; <a href="eula.html">EULA</a>
+</footer>
+
+<script>
+  function toggle(el) {
+    el.parentElement.classList.toggle('open');
+  }
+</script>
+</body>
+</html>
