@@ -809,7 +809,7 @@ class ChessGameOver extends StatelessWidget {
                         ? 'Draw!'
                         : isHumanWinner
                         ? 'You Win!'
-                        : '${winner?.name} Wins!',
+                        : '${winner.name} Wins!',
                     style: const TextStyle(
                       color: AppTheme.accent,
                       fontSize: 24,
