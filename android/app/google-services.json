@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040493098798",
+    "project_id": "zzaala",
+    "storage_bucket": "zzaala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040493098798:android:accda5ca1db6f7eaa5acbf",
+        "android_client_info": {
+          "package_name": "com.infoholiks.chezagames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDdJfxAixHe6sbcFUzPsJpBBmhgk5FBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
