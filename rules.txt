@@ -1,0 +1,166 @@
+Matatu is a popular two-player Ugandan card game played with a standard 52-card deck, where the goal is to empty your hand first. Players match the suit or number of the top card on the discard pile, or draw from the deck, utilizing special cards like Jokers and Aces.
+
+Core Rules of Matatu
+Objective: Be the first player to empty your hand of all cards.
+Players: Typically two, though sometimes played with more (locally).
+Dealing: Seven cards are dealt to each player. The remaining deck is placed in the middle, and the top card is placed face up to start the discard pile (the "chopper").
+Gameplay:
+Players must match the card on the discard pile by suit or number.
+If a player cannot play a card, they must draw from the deck until they can make a move.
+Special Cards/Rules:
+Jokers/Aces: Often used as wild cards or with special functions.
+"Cut" or "Passing": If a player has the exact same card (number and suit) as the top card on the pile, they can "cut" the turn, playing it immediately, even if it is not their turn.
+Winning: The first player to play all their cards wins the round.
+
+Matatu is a popular card game that comes from East Africa, and it’s super fun because it’s easy to learn and really exciting! Ask any Ugandans, they know how to play it.
+
+Matutu is very similar to Uno, but you play it with a regular deck of 52 cards, and it works for 2 to 6 players. The name “Matatu” comes from the Swahili word for “three,” which shows how important strategy and card combinations are in the game. In this article, you’ll find all the details about how to play, the rules, and some tips so you can have a great time playing Mata
+
+In Matatu, the goal is to be the first player to play all your cards or to have the smallest total of the numbers on your leftover cards after the game has been cut with a 7. Usually, each card gets a certain number of points based on the house rules, with 2 and Ace often being the highest as they leave you with each 25 points and 15 points if the game is cut, followed by face cards. You would want to avoid having these cards if the game is cut. Players have to think strategically about their cards and guess what their opponents might do, making the game thrilling and packed with fun.
+
+Getting Ready to Play
+
+Mix Up the Cards: One person is chosen to be the dealer. The dealer mixes the deck really well and gives each player 7 cards. The dealer also play.
+
+Make the Draw Pile: The leftover cards are stacked face down to make a draw pile. The dealer flips over the top card to start a discard pile. The 7 of the suit that the dealer flips to start the discard pile, is the card that also cuts the game.
+
+Starting the Game: The player sitting next to the dealer on the left goes first in the first round.
+
+Playing The Game
+
+The game moves in a clockwise direction from the beginning, and the player whose turn it is must place a card on the discard pile based on the last card that was played. For instance, you can put a heart on another heart regardless of the number that is stated on the card. Also, a 3 of Spades can be played on a 3 of Clubs, but a 5 of spades can not go on a 9 of diamonds. You can only play one card every round, unless if you’re only playing 2 people in which the rules will change a little bit.
+
+If you don’t have a card to play from your hand, you need to pick a card from the draw pile. If the card you draw can be played, you can put it down right away in that same turn.
+
+A round is over when a player has used all their cards or when someone cuts the game by playing the 7 of the suit that the dealer flipped at the start of the game. It’s smart to cut the game if you got low cards like a 6 and a 3. You should do this especially if you believe your opponents have higher cards. The goal is to keep your card points as low as possible, especially if you end the game by cutting. The winner of the game is the first to have used all your cards, or if the game is cut its the one who has the smallest numbers / points. You wouldn’t want to sit with an ace and a 2 in the end of the round, if the game is cut.
+
+“Points”
+
+1 – 9 = 1 – 9 Points
+Jack = 10 Points
+Queen = 11 Points
+King = 12 Points
+Ace = 15 Points
+2 = 25 Points
+Special Cards
+
+If you have played Uno before, you know the +2 / +4 and Turn Direction cards. In Matutu it’s the same.
+
+2 = Next player has to pick up 2 cards from the draw pile, unless if the player have a 2, in which the player can play the card and the +2 goes to the next player. 2’s doesn’t multiple, so maximum amount of cards a player can draw is 2.
+
+7 = Cuts the game, and cards has to be counted.
+
+8 = Skips next player.
+
+Jack = Changes direction of the next player to play.
+
+Ace = Choose suit. An ace can be played on any card, regardless of the suit.
+
+Matatu is a card game widely played in Uganda, with slightly varying rules. The word "matatu" means a "mix of everything", and is also phonetic for the sound when shuffling. The word matatu (for Swahili "for three" most probably after the standard price
+
+of 3 Shillings per ride) is used for minibus taxis as well, which provide the main means of transport for people in most of East Africa.
+
+Each player gets 7 cards; goal of the game is to shed all your cards first. You always have to follow either suit or rank, with exception of the Ace (more on that below) - you might decide to draw a card instead though (as you have to if you can't serve), for tactical reasons. But you can also finish the game by "cutting": the first card on the stack is deciding the cut suit, and whoever has the 7 of that suit can finish the game, if there are less or equal than 25 points on his hand. Then the one with less points wins, so the number of cards is not necessarily a reliable indicator. For cutting, you need to know the value of the cards, which are 3 to 10 for the respective ranks, 11 for Jack, 12 for Queen, 13 for King, 15 for Ace and 20 for 2.
+
+2, 8, Jack and Ace have special functions: 8 and Jack allow/force you to play another card (or draw if you can't) unless they are the very last card, and
+
+the game is finished afterwards. The 2 forces your opponent to draw 2 cards, unless he has also a 2, in which case you will have to draw 4! The Ace can be played on any other card (except the 2), and allows you to request a suit of your choice. There are a few differences to the original card game as it is played in Uganda. If the drawing stack gets finished, the shedding stack is shuffled again (except the topmost card) and used as new drawing stack. Also, the first card (deciding the cut suit) is not used as first card on the shedding stack, but is normally put sideways under the drawing stack, so that it is visible during the game at all times. And usually the player is still allowed to play after picking a card (except after a 2).
+
+But as with many card games, there are variations anyway. After all, a great and entertaining game has emerged; my sincere thanks to everybody involved, whom I nagged with constant bug reports and suggestions!
+
+Matatu is a popular East African card shedding game similar to Uno or Crazy Eights. The goal is to be the first player to get rid of all your cards by matching the suit or rank of the previous card played.
+
+🎯 Objective
+Be the first player to play all your cards. When you have only one card left, you must say "Matatu!" or you'll be penalized.
+
+🎮 Basic Gameplay
+Players take turns clockwise
+On your turn, play a card that matches either the suit or rank of the top discard pile card
+If you cannot play, draw one card from the stock pile
+If you still cannot play after drawing, your turn ends
+When you have one card left, announce "Matatu!" before your next turn
+💡 Pro Tip: Always pay attention to special card effects and plan your moves strategically!
+⚡ Special Cards & Effects
+8 (Eight): Next player skips their turn
+2 (Two): Next player draws 2 cards and loses their turn (unless they play another 2)
+Jack (11): Changes the suit to any suit you choose (announce the new suit)
+King (13): Reverses the direction of play (clockwise ↔ counterclockwise)
+Ace (15): Suit selection card - allows you to choose the next suit
+Queen of Spades (12S): Next player draws 5 cards and loses their turn
+🎯 Ace (15) Special Rules - Suit Selection
+Primary Function: Only the Ace (15) can trigger suit selection
+Penalty Neutralization: Ace of Spades (15S) can neutralize active penalties
+Last Card Exception: If Ace (15) is your last card, no suit selection occurs - game ends immediately
+Priority System: When Ace of Spades (15S) is played during active penalty, it neutralizes penalty first, then allows suit selection if no penalty exists
+Examples:
+• 15H played, no penalty: Player selects new suit
+• 15S played, penalty active: Penalty neutralized, no suit selection
+• 15D played as last card: Game ends, no suit selection
+🔄 Stacking Rules
+Twos can stack: If a 2 is played, the next player can play another 2 to pass the penalty to the following player
+The penalty accumulates (2+2=4 cards, 2+2+2=6 cards, etc.)
+Player who cannot stack must draw all accumulated cards
+Queen of Spades stacking: Some variations allow Queen of Spades to stack with 2s
+📢 "Matatu!" Declaration
+When you have exactly one card left, you must say "Matatu!" before the next player starts their turn
+If you forget to say "Matatu!" and another player notices, you must draw 2 penalty cards
+You can still win on your next turn if you can play your last card legally
+🏆 Winning & Scoring
+Instant Win: First player to legally play all their cards wins the round
+Points System (Optional): Players who still have cards score penalty points based on remaining cards:
+Number cards (2-10): Face value
+Face cards (J, Q, K): 10 points each
+Ace: 1 point
+Play multiple rounds - lowest total score wins the game
+❌ Common Penalties
+Illegal play: Draw 2 cards and lose your turn
+Forgetting "Matatu!": Draw 2 cards when caught
+Playing out of turn: Draw 1 card
+False "Matatu!" call: Draw 2 cards (if you have more than 1 card)
+🎲 Digital Game Features
+Auto-validation: Illegal moves are prevented automatically
+Hint system: Get suggestions for valid plays
+Quick play: Fast-paced games with shorter timers
+Tournaments: Compete in structured competitions
+Statistics: Track your wins, losses, and improvement over time
+Custom rules: Play with house rule variations
+
+How to Play
+Matatu Pro with a standard deck of 52 cards (no jokers)
+T H E B A S I C S
+
+1. You start with 7 cards.
+2. Match the card on the table by Suit or Rank.
+3. If you can't move, draw a card from the pile and play or pass turn.
+   T W O W A Y S T O W I N
+   Empty your hand
+   Play all your cards before your opponent.
+   The Chopper
+   Play a 7 of the same suit as the "Base Card" placed under the deck to end the game instantly.
+   You win if your total hand value is lower than your opponent's.
+   S P E C I A L C A R D S
+   2 — Pick Two
+   Opponent draws 2 cards or counter with a 2.
+   8 or J — Jump
+   Skip the opponent's turn. Play again.
+   Ace — Change Suit
+   Play on any card to choose a new suit.
+   7 — Chopper
+   Only playable if your hand total is 30 or less.
+   C A R D V A L U E S
+   20/03/2026, 23:56 How to Play Matatu - Rules & Guide | Matatu Pro
+   https://www.matatu.pro/rules 1/2
+   Ace
+   15
+   King
+   13
+   Queen
+   12
+   Jack
+   11
+   2-10
+   Face Value
+   H O W T O P L AY L E A V E A R E V I E W
+   Play
+   20/03/2026, 23:56 How to Play Matatu - Rules & Guide | Matatu Pro
+   https://www.matatu.pro/rules 2/2
